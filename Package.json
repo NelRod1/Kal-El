@@ -1,0 +1,14 @@
+{
+  "name": "kal-el-n8n",
+  "version": "1.0.0",
+  "description": "Automatización n8n en la nube con Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n"
+  },
+  "author": "TuNombre",
+  "license": "MIT",
+  "dependencies": {
+    "n8n": "^1.41.0"
+  }
+}
